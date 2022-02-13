@@ -1,1 +1,1 @@
-{"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"title":"블로그를 시작하다","categories":"블로그"},"fields":{"slug":"/start-blog/"}}},{"node":{"frontmatter":{"title":"블로그를 시작하다","categories":"블로그"},"fields":{"slug":"/software-master/"}}}]}}}
+{"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"title":"소프트웨어 장인","categories":"독서"},"fields":{"slug":"/software-master/"}}},{"node":{"frontmatter":{"title":"블로그를 시작하다","categories":"블로그"},"fields":{"slug":"/start-blog/"}}}]}}}
